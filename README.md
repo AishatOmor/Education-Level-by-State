@@ -5,13 +5,13 @@ This repository contains an analysis of education levels across U.S. states and 
 
 Dataset contains education data by state (cd) for 2020.
 
-Columns:
+# Columns:
 
-Bachelors_degree_or_higher – Number of people with a bachelor’s degree or higher
+- Bachelors_degree_or_higher – Number of people with a bachelor’s degree or higher
 
-high_school_or_some_degree – Number of people with high school or some college
+- high_school_or_some_degree – Number of people with high school or some college
 
-Less_than_high_school_graduate – Number of people with less than high school education
+- Less_than_high_school_graduate – Number of people with less than high school education
 
 Dataset From Kaggle 
 
